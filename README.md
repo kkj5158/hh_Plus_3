@@ -171,7 +171,7 @@
 
 #### Docker , Docker-compose 
 
-- 분산환경에서의 테스트와 동일한 테스트환경을 제공하기위해서 Docker, Docker-Composet를 활용한다. 
+- 분산환경에서의 테스트와 동일한 테스트환경을 제공하기위해서 Docker, Docker-Compose를 활용한다. 
 
 
 #### Redis  
